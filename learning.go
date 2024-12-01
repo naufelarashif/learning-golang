@@ -1,5 +1,5 @@
 package learninggolang
 
-func SayChitChat() {
+func SayChitChat() string {
 	return "Hello, how are you?"
 }
